@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hoh Zheng Jie but I go by Kidd.
 - 👀 I’m interested in dealing with front-end development (e.g. HTML and CSS).
 - 🌱 I’m currently studying in Monash University Malaysia.
-- 💞️ I’m looking to collaborate on any projects to expand my horizon.
+- 💞️ I’m looking to collaborate on any projects to expand my skills and horizon.
 - 📫 E-mail: trevorhoh@gmail.com
 
 <!---
